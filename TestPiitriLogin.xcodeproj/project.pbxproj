@@ -165,7 +165,7 @@
 		243AFBE615B4A5AC00B7DB2D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0420;
+				LastUpgradeCheck = 0430;
 				ORGANIZATIONNAME = "LSR Marketing Service";
 			};
 			buildConfigurationList = 243AFBE915B4A5AC00B7DB2D /* Build configuration list for PBXProject "TestPiitriLogin" */;
@@ -327,6 +327,7 @@
 				243AFC0F15B4A5AD00B7DB2D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -56,6 +56,7 @@
     [defaults setObject:[facebook accessToken] forKey:@"FBAccessTokenKey"];
     [defaults setObject:[facebook expirationDate] forKey:@"FBExpirationDateKey"];
     [defaults synchronize];
+    NSLog(@"El Token es %@ y el expiration date es %@", [facebook accessToken], [facebook expirationDate]);
     
 }
 							
